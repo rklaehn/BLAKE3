@@ -1,3 +1,9 @@
+# About
+
+This is a fork of the original blake3 crate that adds a tiny bit of extra code
+to make some internals accessible. It will be yanked as soon as these changes
+are upstreamed.
+
 # <a href="#"><img src="media/BLAKE3.svg" alt="BLAKE3" height=50></a>
 
 BLAKE3 is a cryptographic hash function that is:
